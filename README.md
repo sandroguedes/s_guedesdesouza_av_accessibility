@@ -8,11 +8,9 @@ None needed. You can either download the repo or check out what the project look
 https://sandroguedes.github.io/s_guedesdesouza_av_accessibility/
 
 ## Developed With
-• HTML
-
-• CSS3/SASS
-
-• JS
+* HTML
+* CSS3/SASS
+* JS
 
 ## License
 ### MIT License
