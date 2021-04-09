@@ -9,7 +9,9 @@ https://sandroguedes.github.io/s_guedesdesouza_av_accessibility/
 
 ## Developed With
 • HTML
+
 • CSS3/SASS
+
 • JS
 
 ## License
